@@ -1,1 +1,6 @@
-
+datasets
+meshio
+pyvista
+vedo
+plaid-lib
+git+https://github.com/PLAID-lib/plaid.git
